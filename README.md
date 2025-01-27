@@ -1,4 +1,7 @@
 # Manhwa Chapter Notifier
+
+![Kim Dokja](kimdokja.jpg)
+
 A Python script that automatically checks for new chapters of "Omniscient Reader's Viewpoint" and sends SMS notifications when new chapters are available.
 
 ## Requirements
